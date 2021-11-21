@@ -1,0 +1,11 @@
+このスクリプトは以下のライブラリを使用します。
+=======
+PyCryptodome
+pyminizip 
+pyperclip
+=======
+
+python3-tk
+
+pyinstaller:実行ファイルにする場合にインストールしてください。
+
