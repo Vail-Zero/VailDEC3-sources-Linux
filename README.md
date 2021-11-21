@@ -18,7 +18,5 @@ File Encrypt Software
 VailDEC3内で使っている別作者によるライブラリは、それぞれのライセンスに従ってください
 
 VailDEC3はライブラリなどの環境を整えれば、どのプラットフォームでも動かすことができます。<br>
-Windows10で確認済み<br>
+このリポジトリ内のVailDEC3はLinuxで確認済み<br>
 (画面の解像度によってレイアウトが崩れる場合があります。)<br>
-※Linuxの対応についてはsourcesフォルダ内のReadme.txtを参照してください。
-
