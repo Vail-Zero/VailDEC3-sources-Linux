@@ -5,7 +5,10 @@ pyminizip
 pyperclip
 =======
 
+Linux-Version(tkinterやpyperclipに必要な追加のソフトウェア)
 python3-tk
+sudo apt-get install xsel
+sudo apt-get install xclip
 
 pyinstaller:実行ファイルにする場合にインストールしてください。
 
