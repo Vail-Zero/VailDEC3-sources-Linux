@@ -1,12 +1,12 @@
 File Encrypt Software
+このリポジトリはLinux版のソースコード用です。
+<a href="https://github.com/Vail-Zero/VailDEC3-sources">Windows版リポジトリ</a>
 <h1>VailDEC3-sources</h1>
 
 <p>このソフトウェアは簡単に使用できることを目標に制作された操作が簡単なファイル暗号化ソフトウェアです。</p>
 <p>フリーソフトウェアとして配布され、ソースコード自体も BSD 3-Clause Licenseにてここでオープンソース化しております。
 
-インストーラーなどのアーカイブも、Releseで配布してありますが、 以下の公式サイトでも配布しております。そちらかもどうぞ。
-<p><a href="http://gdec.starfree.jp/">http://gdec.starfree.jp/</a></p>
-<p><a href="https://github.com/Vail-Zero/VailDEC3-sources/releases/tag/3.0.0">Windowsインストーラ版(release)</a></p>
+Linuxバージョンは正式版を公開していません</p>
 
 <hr></hr>
 <h2>screenshot</h2>
